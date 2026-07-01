@@ -7,3 +7,6 @@
 [submodule "modelador-cupula"]
 	path = modelador-cupula
 	url = git@github.com:RapportTecnologia/magnetostriccao-modelador-cupula.git
+[submodule "simulador"]
+	path = simulador
+	url = git@github.com:RapportTecnologia/simulador_magnetostriccao.git
