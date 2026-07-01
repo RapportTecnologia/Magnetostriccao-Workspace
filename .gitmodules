@@ -1,3 +1,9 @@
 [submodule "site"]
 	path = site
 	url = git@github.com:RapportTecnologia/Magnetostriccao-site.git
+[submodule "backend_web"]
+	path = backend_web
+	url = git@github.com:carlosdelfino/magnetostriccao_dashboard_backend.git
+[submodule "modelador-cupula"]
+	path = modelador-cupula
+	url = git@github.com:RapportTecnologia/magnetostriccao-modelador-cupula.git
